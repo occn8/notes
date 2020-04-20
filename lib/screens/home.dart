@@ -1,11 +1,4 @@
-import 'dart:ffi';
-
-import 'package:flutter/material.dart';
-import 'dart:async';
-import '../models/note.dart';
-import '../utils/dbhelper.dart';
-import 'package:sqflite/sqflite.dart';
-import 'notedetail.dart';
+import 'package:notes/index.dart';
 
 class NoteList extends StatefulWidget {
   @override

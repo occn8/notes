@@ -1,8 +1,5 @@
-import 'package:flutter/material.dart';
+import 'package:notes/index.dart';
 import 'package:intl/intl.dart';
-import 'dart:async';
-import '../models/note.dart';
-import '../utils/dbhelper.dart';
 
 class NoteDetail extends StatefulWidget {
   final String appBarTitle;

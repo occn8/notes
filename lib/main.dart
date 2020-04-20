@@ -1,6 +1,4 @@
-import 'package:flutter/material.dart';
-
-import 'pages/home.dart';
+import 'package:notes/index.dart';
 
 void main() => runApp(MyApp());
 
